@@ -1,0 +1,19 @@
+﻿  Lab6_OOP.cpp
+C:\Users\Користувач\source\repos\Lab6_OOP\Lab6_OOP\Lab6_OOP.cpp(57,17): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Користувач\source\repos\Lab6_OOP\Lab6_OOP\Lab6_OOP.cpp(79): message : see reference to class template instantiation 'ArrayConversion<T>' being compiled
+C:\Users\Користувач\source\repos\Lab6_OOP\Lab6_OOP\Lab6_OOP.cpp(164,53): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Користувач\source\repos\Lab6_OOP\Lab6_OOP\Lab6_OOP.cpp(61,46): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=long
+          ]
+C:\Users\Користувач\source\repos\Lab6_OOP\Lab6_OOP\Lab6_OOP.cpp(61,46): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Lab6_OOP.vcxproj -> C:\Users\Користувач\source\repos\Lab6_OOP\x64\Debug\Lab6_OOP.exe
